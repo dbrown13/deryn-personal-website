@@ -6,13 +6,14 @@ h1 {
     color: maroon;
     font-style: bold;
     text-align: center;
+    font-size: 30px;
 }
 
 h2 {
     color: pink;
     font-style: italic;
     text-align: center;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 div {
@@ -22,6 +23,7 @@ div {
 ul {
     display: inline-block;
     text-align: left;
+    font-size: 18px;
 }
 
 h3 {
