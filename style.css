@@ -1,0 +1,15 @@
+body {
+    background: grey;
+}
+
+h1 {
+    color: maroon;
+    font-style: bold;
+    text-align: center;
+}
+
+h2 {
+    color: pink;
+    font-style: italic;
+    text-align: center;
+}
