@@ -1,8 +1,10 @@
 body {
     background: grey;
+    font-family: Georgia;
 }
 
 h1 {
+    font-family: Georgia;
     color: maroon;
     font-style: bold;
     text-align: center;
@@ -10,6 +12,7 @@ h1 {
 }
 
 h2 {
+    font-family: Georgia;
     color: pink;
     font-style: italic;
     text-align: center;
@@ -17,16 +20,25 @@ h2 {
 }
 
 div {
+    font-family: Georgia;
     text-align: center;
 }
 
 ul {
+    font-family: Georgia;
     display: inline-block;
     text-align: left;
     font-size: 18px;
 }
 
 h3 {
+    font-family: Georgia;
     font-size: 10px;
     font-style: italic;
+}
+
+p {
+   font-family: Georgia;
+   font-size: 16px;
+   color: pink; 
 }
