@@ -12,4 +12,19 @@ h2 {
     color: pink;
     font-style: italic;
     text-align: center;
+    font-size: 8px;
+}
+
+div {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+h3 {
+    font-size: 4px;
+    font-style: italic;
 }
