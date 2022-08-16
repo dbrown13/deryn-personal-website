@@ -1,11 +1,11 @@
 body {
-    background: grey;
+    background: #D3D3D3;
     font-family: Georgia;
 }
 
 h1 {
     font-family: Georgia;
-    color: maroon;
+    color: #556B2f;
     font-style: bold;
     text-align: center;
     font-size: 30px;
@@ -13,7 +13,7 @@ h1 {
 
 h2 {
     font-family: Georgia;
-    color: pink;
+    color: #6B8E23;
     font-style: italic;
     text-align: center;
     font-size: 20px;
@@ -40,5 +40,6 @@ h3 {
 p {
    font-family: Georgia;
    font-size: 16px;
-   color: pink; 
+   color: #808000; 
+   text-align: center;
 }
